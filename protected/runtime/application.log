@@ -1,0 +1,72 @@
+2018/02/09 06:48:06 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/
+2018/02/09 06:48:06 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/
+2018/02/09 06:48:06 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/
+2018/02/09 06:48:13 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/index.php/migrate/step1
+2018/02/09 06:48:14 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/index.php/migrate/step2
+2018/02/09 06:48:14 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/index.php/migrate/step1
+2018/02/09 06:48:15 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/index.php/migrate/step1
+2018/02/09 06:48:16 [error] [php] unserialize(): Unexpected end of serialized data (D:\xampp\htdocs\magento2_data_migration\yii\caching\CCache.php:108)
+Stack trace:
+#0 D:\xampp\htdocs\magento2_data_migration\yii\web\CUrlManager.php(206): CUrlManager->processRules()
+#1 D:\xampp\htdocs\magento2_data_migration\yii\base\CModule.php(394): CUrlManager->init()
+#2 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(530): CWebApplication->getComponent()
+#3 D:\xampp\htdocs\magento2_data_migration\yii\web\CWebApplication.php(140): CWebApplication->getUrlManager()
+#4 D:\xampp\htdocs\magento2_data_migration\yii\base\CApplication.php(184): CWebApplication->processRequest()
+#5 D:\xampp\htdocs\magento2_data_migration\index.php(13): CWebApplication->run()
+REQUEST_URI=/magento2_data_migration/index.php/migrate/step1
